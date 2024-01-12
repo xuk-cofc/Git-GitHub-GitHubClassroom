@@ -1,4 +1,4 @@
-# Git-GitHub
+# Git-GitHub 
 Learn basics about Git and GitHub
 
 ## Task 1.
@@ -35,5 +35,14 @@ Follow [Hands-On Lab: Cloning and Forking GitHub Projects](https://www.coursera.
     - you can open GitBash for Windows or Terminal for Mac 
     - Make sure you are under the class folder of your local computer to run git command
 * Exercise 4: you can explore the files using your File Explorer(Windows) or Finder( Mac) to explore the cloned repo or open it with your IDE 
-* After completing Exercise 10, you can ${\color{red}stop}$. 
+* After completing Exercise 10, you can ${\color{red}stop}$.
+
+# GitHub Classroom 
+### Course work submission
+Most of your assignment is in GitHub Classroom. 
+1. Watch [GitHub Classroom: How students complete assignments ](https://www.youtube.com/watch?v=ObaFRGp_Eko  )
+2. open the assignment link your instructor send you, accept it, then a forked repo will be created in your GitHub account. 
+3. Clone the repo to local computer
+4. Finish your assignment locally, then push to the origin
+5. When you done, go to OAKS, past your GitHub repo URL to the dropbox as your submission
     
