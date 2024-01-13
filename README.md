@@ -44,5 +44,5 @@ Most of your assignment is in GitHub Classroom.
 2. open the assignment link your instructor send you, accept it, then a forked repo will be created in your GitHub account. 
 3. Clone the repo to local computer
 4. Finish your assignment locally, then push to the origin
-5. When you done, go to OAKS, past your GitHub repo URL to the dropbox as your submission
+5. When you done, go to OAKS, paste your GitHub repo URL to the dropbox as your submission
     
