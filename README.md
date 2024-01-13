@@ -28,7 +28,7 @@ Download [Git](https://www.git-scm.com/downloads)
 * For Windows users, after you install Git, you will have GitBash as your terminal 
 * under Terminal, type **git --version** 
 ## Task 4.
-Follow [Hands-On Lab: Cloning and Forking GitHub Projects](https://www.coursera.org/learn/getting-started-with-git-and-github/ungradedLti/hsEpk/hands-on-lab-cloning-and-forking-github-projects), Some comments no this lab:
+Follow [Hands-On Lab: Cloning and Forking GitHub Projects](https://www.coursera.org/learn/getting-started-with-git-and-github/ungradedLti/hsEpk/hands-on-lab-cloning-and-forking-github-projects), Some comments on this lab:
 * ${\color{red}run\  this\ lab\ on\ your\ own\ system}$ is highly recommended. 
 * you can __SKIP__ Exercise 1: Generate personal access token
 * Exercise 2: 
