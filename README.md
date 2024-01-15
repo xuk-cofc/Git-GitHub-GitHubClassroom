@@ -2,7 +2,7 @@
 Learn basics about Git and GitHub
 
 ## Task 1.
-Login **Coursera** from https://myportal.cofc.edu/ and watch the following videos
+Login **Coursera** from https://myportal.cofc.edu/ or [Oaks](https://lms.cofc.edu/d2l/home) and watch the following videos
 * [Overview of Git and GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github/lecture/Q2qCC/overview-of-git-and-github)
 * [Introduction to GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github/lecture/Vtjgd/introduction-to-github) (Optional)
 * [GitHub Repositories](https://www.coursera.org/learn/getting-started-with-git-and-github/lecture/NPMOC/github-repositories) (Optional)
