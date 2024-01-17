@@ -1,4 +1,4 @@
-# Git-GitHub 
+# Git-GitHub :fire:
 Learn basics about Git and GitHub
 
 ## Task 1.
@@ -40,7 +40,7 @@ Follow [Hands-On Lab: Cloning and Forking GitHub Projects](https://www.coursera.
 * Exercise 4: you can explore the files using your File Explorer(Windows) or Finder( Mac) to explore the cloned repo or open it with your IDE 
 * After completing Exercise 10, you can ${\color{red}stop}$.
 
-# GitHub Classroom 
+# GitHub Classroom :fire:
 ### Course work submission
 Most of your assignment is in GitHub Classroom. 
 1. Watch [GitHub Classroom: How students complete assignments ](https://www.youtube.com/watch?v=ObaFRGp_Eko  )
