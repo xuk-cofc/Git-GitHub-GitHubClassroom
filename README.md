@@ -2,7 +2,7 @@
 Learn basics about Git and GitHub
 
 ## Task 1.
-Login **Coursera** from  [https://myportal.charleston.edu] and watch the following videos. 
+Login **Coursera** from  [https://myportal.charleston.edu] using your cofc credential and watch the following videos. 
    > When you first time clicking the link of video, it will ask you to enroll the course(IBM Getting Started with Git and GitHub IBM).
     Once you enrolled, you should be accessing all videos in the tutorial and practice HandOn labs) from the following links
 
