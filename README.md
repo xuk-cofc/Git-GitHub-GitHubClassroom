@@ -61,6 +61,16 @@ To learn more about forking, read ["Fork a repo"](https://docs.github.com/en/git
 When working with branches, you can use a pull request to tell others about the changes you want to make and ask for their feedback. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add more changes if need be. You can add specific people as reviewers of your pull request which shows you want their feedback on your changes! Once a pull request is ready-to-go, it can be merged into your main branch.
 To learn more about pull requests, read ["About Pull Requests"](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests). 
 
+### Your user profile
+
+Your profile page tells people the story of your work through the repositories you're interested in, the contributions you've made, and the conversations you've had. You can also give the world a unique view into who you are with your profile README. You can use your profile to let future employers know all about you! 
+To learn more about your user profile and adding and updating your profile README, read ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme). 
+
+### Using markdown on GitHub 
+
+You might have noticed already, but you can add some fun styling to your issues, pull requests, and files. ["Markdown"](https://guides.github.com/features/mastering-markdown/) is an easy way to style your issues, pull requests, and files with some simple syntax. This can be helpful to organize your information and make it easier for others to read. You can also drop in gifs and images to help convey your point!
+To learn more about using GitHub’s flavor of markdown, read ["Basic Writing and Formatting Syntax"](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax). 
+
 ## 💻 Understanding the Git flow (Optional)
 
 * [Overview of Git Workflows](https://www.coursera.org/learn/getting-started-with-git-and-github/lecture/ZL8gJ/overview-of-git-workflows)
@@ -101,4 +111,14 @@ Most of your assignment is in GitHub Classroom.
 3. Clone the repo to local computer
 4. Finish your assignment locally, then push to the origin
 5. When you done, go to OAKS, paste your GitHub repo URL to the dropbox as your submission
+
+
+## 📚  Resources 
+* [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
+* [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
+* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
+* [How to use GitHub branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q&feature=youtu.be)
+* [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
+
+
     
