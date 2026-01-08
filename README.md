@@ -61,7 +61,7 @@ To learn more about forking, read ["Fork a repo"](https://docs.github.com/en/git
 When working with branches, you can use a pull request to tell others about the changes you want to make and ask for their feedback. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add more changes if need be. You can add specific people as reviewers of your pull request which shows you want their feedback on your changes! Once a pull request is ready-to-go, it can be merged into your main branch.
 To learn more about pull requests, read ["About Pull Requests"](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests). 
 
-## 💻 Understanding the Git flow
+## 💻 Understanding the Git flow (Optional)
 
 * [Overview of Git Workflows](https://www.coursera.org/learn/getting-started-with-git-and-github/lecture/ZL8gJ/overview-of-git-workflows)
 * [Overview of Git Commands](https://www.coursera.org/learn/getting-started-with-git-and-github/lecture/1LQzR/overview-of-git-commands) 
